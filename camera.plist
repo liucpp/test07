@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test818.test2014</string>
 				<key>bundle-version</key>
-				<string>0.1.0</string>
+				<string>0.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Camera_0.1.0_20140829_1300</string>
+				<string>Camera_0.1.0_20140905_1300</string>
 			</dict>
 		</dict>
 	</array>
